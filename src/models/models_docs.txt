@@ -1,0 +1,3 @@
+untuk menampung Query ke database dan menampilkan hasilnya ke dalam tabel 
+
+1. Model adalah quuery atau perintah untuk memanipulasi data di database dan disini setiap file model mewakili satu tabel di database (nama file model harus sama dengan nama tabel di database)

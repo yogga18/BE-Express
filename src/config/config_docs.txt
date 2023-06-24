@@ -1,0 +1,1 @@
+menampung segala konfigurasi yang dibutuhkan oleh aplikasi, seperti konfigurasi database, konfigurasi email, dan lain-lain. File ini berada di direktori `config/` dan bernama `database.php` dan `email.php`.

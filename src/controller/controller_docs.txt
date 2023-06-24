@@ -1,0 +1,4 @@
+folder untuk menampung function yang akan digunakan pada controller dan model yang akan digunakan pada view yang akan di load pada controller tersebut
+
+1. Request body ( data yang di kirim dari client ke server )
+pada dasarnya nodejs hanya bisa membaca request body yang berformat json, untuk itu kita harus mengubahnya menjadi json terlebih dahulu dengan menggunakan middleware body-parser app.use(express.json()); // allow request body json, jika sudah maka kita bisa mengakses request body dengan req.body pada controller
